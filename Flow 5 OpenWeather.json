@@ -1,0 +1,20 @@
+[
+    {
+        "id": "6ebbcc1d1e05e88b",
+        "type": "json",
+        "z": "7f4ae7b67e07becf",
+        "name": "Orlando Ramírez #ubicación",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 600,
+        "y": 860,
+        "wires": [
+            [
+                "ad707fd03f08d492",
+                "a48ac546d351f73b",
+                "5b1a948313b57b29"
+            ]
+        ]
+    }
+]
